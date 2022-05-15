@@ -5,7 +5,7 @@
 ### 1.1. Purpose
 The purpuse of this project is to analize all the rideshare data from January to early May of 2019  by city type, organizing all the information trough tables and graphics in order to allow the CEO visualize the results in order to make future decisions.
 
-## 3. Results:
+## 2. Results
 
 <p align="center">
   <img  src="Analysis/PyberResults_Table.png">
