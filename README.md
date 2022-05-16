@@ -17,11 +17,13 @@ In summary, in the Suburban and Rural areas, there was a lack of drivers compari
 <p align="center">
   <img  src="Analysis/PyberResults_Table.png">
 </p>
-
-## 4. Summary:
-
 <p align="center">
   <img  src="Analysis/PyBer_fare_summary.png">
 </p>
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+
+## 4. Summary
+
+We recommend the CEO to relocate at least 135 drivers from the Urban to the Rural city type, and 77 drivers to the Rural city in order to cover the total number of rides of both city types.
+
+
