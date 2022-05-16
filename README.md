@@ -24,6 +24,6 @@ In summary, in the Suburban and Rural areas, there was a lack of drivers compari
 
 ## 4. Summary
 
-We recommend the CEO to relocate at least 135 drivers from the Urban to the Rural city type, and 77 drivers to the Rural city in order to cover the total number of rides of both city types.
+We recommend the CEO to relocate at least 135 drivers from the Urban to the Suburban city type, and 77 drivers to the Rural city in order to cover the total number of rides of both city types. 
 
 
